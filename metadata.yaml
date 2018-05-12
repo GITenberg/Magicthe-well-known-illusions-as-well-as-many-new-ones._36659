@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38404
     wikipedia: http://en.wikipedia.org/wiki/Ellis_Stanyon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36659#Magicthe-well-known-illusions-as-well-as-many-new-ones.
 gutenberg_issued: '2011-07-08'
 gutenberg_type: Text
 identifiers:
