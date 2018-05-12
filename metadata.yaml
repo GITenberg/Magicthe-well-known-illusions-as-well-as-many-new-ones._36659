@@ -1,0 +1,29 @@
+_repo: Magicthe-well-known-illusions-as-well-as-many-new-ones._36659
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36659-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stanyon, Ellis
+    alias: Stanyon, William Ellis
+    birthdate: 1870
+    deathdate: 1951
+    gutenberg_agent_id: '38404'
+    url: http://www.gutenberg.org/2009/agents/38404
+    wikipedia: http://en.wikipedia.org/wiki/Ellis_Stanyon
+description: ''
+gutenberg_issued: '2011-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36659'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Magic tricks'
+- !lcc 'GV'
+title: "Magic\r\nIn which are given clear and concise explanations of all the well-known\
+  \ illusions as well as many new ones."
+url: http://www.gutenberg.org/ebooks/36659
